@@ -1,0 +1,8 @@
+constants.py
+__pycache__
+persist/
+.DS_Store
+.chroma/
+chroma_db/
+.env
+venv
